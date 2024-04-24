@@ -23,3 +23,6 @@ Para mais informações sobre o Projeto XYZ ou para entrar em contato conosco, e
 
 ##Sobre a TechSquad Inc.:
 A TechSquad Inc. é uma empresa de tecnologia inovadora que se destaca no desenvolvimento de soluções para otimizar a eficiência e promover a colaboração no ambiente de trabalho. Fundada em 2018 por um grupo de entusiastas da tecnologia, a TechSquad conquistou reconhecimento no mercado graças à sua abordagem centrada no usuário e ao compromisso com a excelência técnica.
+
+
+
